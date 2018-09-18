@@ -2,7 +2,7 @@
 *ISQA8086-002* _Special Topics In ISQA: From Data to Decisions_
 
 ## Table of contents
-* 
+* Data Entry Analysis
 * 
 * 
 ## License
